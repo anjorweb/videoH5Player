@@ -45,3 +45,8 @@ h5video.nextSection();  //去往下一个时间段
 h5video.destory(true); //销毁 参数可选：true，删除页面video元素
 ```
 
+
+
+说明：
+
+video播放只在ios和安卓的新版微信、手机Q测试通过，其余浏览器均出现各种奇怪问题，其余浏览器可以考虑使用序列帧播放。
