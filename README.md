@@ -45,7 +45,8 @@ h5video.nextSection();  //去往下一个时间段
 h5video.destory(true); //销毁 参数可选：true，删除页面video元素
 ```
 
-
+**更新**
+1、添加了同层播放器进入和退出的事件，退出后点击document，继续播放
 
 说明：
 
